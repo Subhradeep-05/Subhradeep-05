@@ -11,12 +11,14 @@ Email Me 👉 ✉️ **subhradeepdey2005@gmail.com** For Collaboration/Project o
 - ⚡ **Fun fact:** Tech is my life
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subhradeep-05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BrWDcpBe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100092455250085) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhradeep3688) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhradeep-dey-358173318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhradeepdey2005@gmail.com) 
 
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Subhradeep-05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 - <!-- Snake Game Repo View -->
 
 <div align="center">
